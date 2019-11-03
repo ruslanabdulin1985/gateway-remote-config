@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "DCA632FFFE3221C6",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude":56.855088,
+    "ref_longitude":14.827584,
+    "ref_altitude": 40,
+    "contact_email": "ruslanabdulin1985@gmail.com",
+    "description": "LNU Project"
+  }
+}
